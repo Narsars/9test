@@ -5,10 +5,5 @@ const questions = [
     correctAnswer: true,
     explanation: "WTO 確實於 1995 年取代了 GATT，成為全球貿易規則的主要國際組織。"
   },
-  {
-    question: "台灣於何時正式成為WTO會員國？,
-    options: ["2002/1/1", "2022/1/1","1992/1/1"],
-    correctAnswer: "1"
-  },
   // ... 更多問題 ...
 ];
